@@ -25,6 +25,12 @@ public class AddressBookRepository
     }
 
     // Read
+
+    public int CountofAllContacts()
+    {
+        int currentCountofContacts = _contactsList.Count();
+        return currentCountofContacts;
+    }
     public void ListAllContacts()
     {
         foreach (KeyValuePair<int, AddressBookContact> contact in _contactsList)
@@ -40,7 +46,7 @@ public class AddressBookRepository
         {
             if(String.Equals(contact.Value.Name, name, StringComparison.OrdinalIgnoreCase))
             {
-                return contact;
+                return contact.Value;
             }
         }
         
@@ -53,7 +59,7 @@ public class AddressBookRepository
         {
             if(contact.Key == id)
             {
-                return contact;
+                return contact.Value;
             }
         }
         
@@ -87,7 +93,7 @@ public class AddressBookRepository
 
         if (contact == null)
         {
-            console.WriteLine("Already to existing id.");
+            Console.WriteLine("Already to existing id.");
             return false;
         }
 
@@ -115,16 +121,16 @@ public class AddressBookRepository
     }
 
     //Delete
-    public bool DeleteContactById(int id)
+    public bool RemoveContactById(int id)
     {
         AddressBookContact targetContact = GetContactById(id);
         
-        if (targetContact < 0)
+        if (targetContact == null)
         {
             return false;
         }
 
-        bool deleteResult = _contactsList.Remove(targetContact);
+        bool deleteResult = _contactsList.Remove(id);
         return deleteResult;
     }
 }
