@@ -1,0 +1,15 @@
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.csproj.AssemblyReference.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.AssemblyInfoInputs.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.AssemblyInfo.cs
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.csproj.CoreCompileInputs.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\bin\Debug\net7.0\DummyFile.exe
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\bin\Debug\net7.0\DummyFile.deps.json
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\bin\Debug\net7.0\DummyFile.runtimeconfig.json
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\bin\Debug\net7.0\DummyFile.dll
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\bin\Debug\net7.0\DummyFile.pdb
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.dll
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\refint\DummyFile.dll
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.pdb
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\DummyFile.genruntimeconfig.cache
+C:\Users\wfraz\OneDrive\ElevenFiftyProjects\codingFoundations\Assignments\AddresBook\DummyFile\obj\Debug\net7.0\ref\DummyFile.dll
